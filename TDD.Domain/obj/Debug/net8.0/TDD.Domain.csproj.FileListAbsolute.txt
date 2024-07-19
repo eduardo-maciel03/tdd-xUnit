@@ -1,0 +1,11 @@
+D:\Projetos\C#\TDD\TDD.Domain\bin\Debug\net8.0\TDD.Domain.deps.json
+D:\Projetos\C#\TDD\TDD.Domain\bin\Debug\net8.0\TDD.Domain.dll
+D:\Projetos\C#\TDD\TDD.Domain\bin\Debug\net8.0\TDD.Domain.pdb
+D:\Projetos\C#\TDD\TDD.Domain\obj\Debug\net8.0\TDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\TDD\TDD.Domain\obj\Debug\net8.0\TDD.Domain.AssemblyInfoInputs.cache
+D:\Projetos\C#\TDD\TDD.Domain\obj\Debug\net8.0\TDD.Domain.AssemblyInfo.cs
+D:\Projetos\C#\TDD\TDD.Domain\obj\Debug\net8.0\TDD.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\TDD\TDD.Domain\obj\Debug\net8.0\TDD.Domain.dll
+D:\Projetos\C#\TDD\TDD.Domain\obj\Debug\net8.0\refint\TDD.Domain.dll
+D:\Projetos\C#\TDD\TDD.Domain\obj\Debug\net8.0\TDD.Domain.pdb
+D:\Projetos\C#\TDD\TDD.Domain\obj\Debug\net8.0\ref\TDD.Domain.dll
